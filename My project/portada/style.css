@@ -4,6 +4,7 @@
    box-sizing: border-box;
 
 }
+/*Con este css se puede generadar un fondo difuminado y con el display grid y place content centar toda el contenido*/
 body {
    font-family: 'Josefin Sans', sans-serif;
    display: grid;
