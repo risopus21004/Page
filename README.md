@@ -1,3 +1,1 @@
-|#|Page
-|:-:|-----------------------------------------------------
-|1|[My project](https://github.com/risopus21004/Page/tree/master/Mi_proyecto)
+no supe configurar esto, entra en la carpeta de codigos
