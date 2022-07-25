@@ -22,6 +22,8 @@ body {
 .buttons{
    align-items: center;
    margin: 60px;
+    display: flex;
+flex-direction: column;
 }
 
 .btn{
@@ -29,11 +31,14 @@ body {
    text-decoration:none;
    padding: 20px 50px;
    border-radius: 50px;
-   transition: transform 0.3s ease;
    color: white;
+    margin: 4px;
 }
-a:hover{
+.buttons a:hover{
       background:rgba(80, 102, 150, 0.671);
       color: rgba(255, 255, 255, 0.219);
+}
 
+.logo{
+    margin-top: 5px;
 }
