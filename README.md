@@ -1,3 +1,1 @@
-|#|Page                                                                   | Live demo
-|:-:|---------------------------------------------------------------------|--------------
-|1|[My project](https://github.com/risopus21004/page/tree/main/index.html)| [Live demo]
+El index que esta aqui fuera
